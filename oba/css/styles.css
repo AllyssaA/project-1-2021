@@ -1,1 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "Avenir";
+  }
 
+/* h1::after{
+    content: "";
+    height: 8em;
+    width: 8em;
+    transform-origin: 51% 51%;
+    background-image: radial-gradient(
+        farthest-side circle at 50% 50%,
+        blue 50%,
+        transparent 50.2%
+    )
+} */
+
+div{
+    clip-path: polygon(0 45%, 20% 54%, 50% 71%, 50% 70%, 80% 58%, 100% 45%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);
+    background-color: #E3EFFF;
+    height: 20em;
+    position: relative;
+    bottom: 0;
+}
