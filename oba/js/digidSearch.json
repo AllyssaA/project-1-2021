@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "time-taken": "247",
+    "result-count": "237",
+    "page-count": "20",
+    "current-page": "1",
+    "current-sort-method": "relevance",
+    "sort-methods": ["relevance", "year", "title", "author"]
+  },
+  "results": [
+    {
+      "id": "|oba-activiteiten|AEAD11A7ACD6EED9B5A43C8EC2B05FF9",
+      "frabl": {
+        "key1": "cursus digisterker voor nieuwkomers",
+        "key2": "",
+        "cnt": "1",
+        "value": "5F6016320D053C00"
+      },
+      "detailLink": "http://zoeken.oba.nl/detail/Cursus-Digisterker-voor-nieuwkomers/Activiteiten/?itemid=%7coba-activiteiten%7cAEAD11A7ACD6EED9B5A43C8EC2B05FF9",
+      "titles": ["Cursus Digisterker voor nieuwkomers"],
+      "coverimages": [
+        "https://www.oba.nl/dam/covers_boeken_aanwinstenlijsten/Digisterker%20combo.jpg/_jcr_content/renditions/cq5dam.web.200.320.jpeg"
+      ],
+      "formats": [
+        {
+          "text": "Activiteiten",
+          "icon": "/assets/resources/img/mat/kit.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "year": "2022",
+      "summaries": [
+        "In deze cursus leggen wij graag uit aan nieuwkomers hoe ze gebruik kunnen maken van de digitale diensten van de overheid en andere organisaties."
+      ],
+      "description": [""],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [
+          {
+            "key1": "cursus digisterker voor nieuwkomers",
+            "key2": "",
+            "cnt": "1",
+            "value": "5F6016320D053C00"
+          }
+        ]
+      },
+      "eresources": ["", "", ""],
+      "custom": [
+        {
+          "type": "active_tickets",
+          "text": "OBA Slotermeer2022-03-31T13:30:00Z2022-03-31T17:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/leren/leef-en-leerpunt/computer/informatiepunt-digitale-overheid.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/leren/leef-en-leerpunt/computer/informatiepunt-digitale-overheid.html",
+      "titles": ["Informatiepunt Digitale Overheid"],
+      "coverimages": [
+        "https://www.bibliotheek.nl/blueprint/kb/voorbeeldpaginas/ido/logo-bd.png.rendition.792.1267.png"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Informatiepunt Digitale Overheid nbsp; nbsp; nbsp; nbsp; Informatiepunt Digitale Overheid in de OBA Tegenwoordig kun je van alles regelen via internet. Ook contact met de overheid gaat steeds vaker digitaal. Kun je wel wat hulp gebruiken of ken je iemand die hulp nodig heeft? Kom langs in de OBA of…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": ["Informatiepunt Digitale Overheid&amp"]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/leren/leef-en-leerpunt/computer.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/leren/leef-en-leerpunt/computer.html",
+      "titles": ["Computer"],
+      "coverimages": [
+        "http://www.oba.nl/dam/nieuws/0620_nieuws-leef-en-leer-ehbo-eerste-hulp-online-computer.jpg.rendition.792.1267.jpeg"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Computer Computer Oefen thuis of in de OBA met de computer, tablet of smartphone. Ik wil terug naar de startpagina van het online OBA Leef en Leerpunt Kom oefenen in de OBA EHBO Meld je aan voor EHBO: Eerste Hulp Bij Online! nbsp;Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek bijvoorbeeld…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "ComputerComputerOefen thuis of in de OBA met de computer, tablet of smartphone.\n        \n        Ik wil terug naar de startpagina van het online OBA Leef en Leerpunt\n    Kom oefenen in de OBAEHBOMeld je aan voor EHBO: Eerste Hulp Bij Online!&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/leren/leef-en-leerpunt/rekenen/belasting/checklist-belastingaangifte.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/leren/leef-en-leerpunt/rekenen/belasting/checklist-belastingaangifte.html",
+      "titles": ["Checklist belastingaangifte"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Om je aangifte in te vullen heb je verschillende gegevens en formulieren nodig. We hebben daarom deze lijst gemaakt met dingen die je mee moet nemen. Let op: jouw DigiD is belangrijk. Zonder een DigiD kan je aangifte helaas niet ingevuld worden. Controleer daarom of je DigiD en wachtwoord werkt. Heb…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "Checklist belastingaangifte\n\n\n\n    \n    \n        Om je aangifte in te vullen heb je verschillende gegevens en formulieren nodig. We hebben daarom deze lijst gemaakt met dingen die je mee moet nemen.  \nLet op: jouw DigiD is belangrijk.\n    \n\nZonder een DigiD kan je aangifte helaas niet ingevuld worden. Controleer daarom of je DigiD en wachtwoord werkt.Heb je nog geen DigiD? Of ben je jouw DigiD kwijt? Vraag vandaag meteen een (nieuw) DigiD aan. Dit kan via www.digid.nl. Je ontvangt binnen een week een brief met gegevens thuis. Let op: de DigiD moet eerst nog geactiveerd\nworden. Vraag de DigiD dus op tijd aan.Wil je hulp bij het aanvragen? Ga langs bij het\nStadsloket of kom naar een van de spreekuren bij OBA: Eerste Hulp Bij Online&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/belasting.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/belasting.html",
+      "titles": ["Gratis hulp en advies bij je belastingaangifte"],
+      "coverimages": [
+        "http://www.oba.nl/dam/nieuws/0221_leren-belastingdagen-vrouw-meisje-op-bank-met-laptop-en-env.png.rendition.792.1267.png"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Gratis hulp en advies bij je belastingaangifte Belastingaangifte moeilijk? Samen hebben we het zo gedaan! In maart en april organiseren de OBA en Hogeschool van Amsterdam samen weer de Belastingdagen. Tijdens deze dagen, kun je hulp krijgen bij aangifte doen van de inkomstenbelasting. Je hoeft geen…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "Gratis hulp en advies bij je belastingaangifteBelastingaangifte moeilijk? Samen hebben we het zo gedaan!In maart en april organiseren de OBA en Hogeschool van Amsterdam samen weer de Belastingdagen. Tijdens deze dagen, kun je hulp krijgen bij aangifte doen van de inkomstenbelasting. Je hoeft geen lid te zijn van de bibliotheek en de hulp is gratis. Ook is er gratis thee en koffie voor alle deelnemers.Lees de informatie hieronder goed. Soms kunnen we je namelijk niet helpen. Heb je alles gelezen en wil je je aanmelden? Klik dan op de knop hieronder.\n        \n        Meld je aan\n    Wat moet ik meenemen om aangifte te kunnen doen?Om aangifte te kunnen doen, is het belangrijk dat je alles meeneemt wat we nodig hebben. Als je op de link hieronder klikt, dan vind je daar een lijst met dingen waar je aan moet denken.&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/leren/leef-en-leerpunt/rekenen/belasting.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/leren/leef-en-leerpunt/rekenen/belasting.html",
+      "titles": ["Gratis hulp en advies bij je belastingaangifte"],
+      "coverimages": [
+        "http://www.oba.nl/dam/nieuws/0221_leren-belastingdagen-vrouw-meisje-op-bank-met-laptop-en-env.png.rendition.792.1267.png"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Gratis hulp en advies bij je belastingaangifte Belastingaangifte moeilijk? Samen hebben we het zo gedaan! In maart en april organiseren de OBA en Hogeschool van Amsterdam samen weer de Belastingdagen. Tijdens deze dagen, kun je hulp krijgen bij aangifte doen van de inkomstenbelasting. Je hoeft geen…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "Gratis hulp en advies bij je belastingaangifteBelastingaangifte moeilijk? Samen hebben we het zo gedaan!In maart en april organiseren de OBA en Hogeschool van Amsterdam samen weer de Belastingdagen. Tijdens deze dagen, kun je hulp krijgen bij aangifte doen van de inkomstenbelasting. Je hoeft geen lid te zijn van de bibliotheek en de hulp is gratis. Ook is er gratis thee en koffie voor alle deelnemers.Lees de informatie hieronder goed. Soms kunnen we je namelijk niet helpen. Heb je alles gelezen en wil je je aanmelden? Klik dan op de knop hieronder.\n        \n        Meld je aan\n    Wat moet ik meenemen om aangifte te kunnen doen?Om aangifte te kunnen doen, is het belangrijk dat je alles meeneemt wat we nodig hebben. Als je op de link hieronder klikt, dan vind je daar een lijst met dingen waar je aan moet denken.&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/leren/leef-en-leerpunt/computer/kom-naar-het-spreekuur-ehbo--eerste-hulp-bij-online-.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/leren/leef-en-leerpunt/computer/kom-naar-het-spreekuur-ehbo--eerste-hulp-bij-online-.html",
+      "titles": ["Kom naar het spreekuur EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "Kom naar het spreekuur EHBO: Eerste Hulp Bij Online!\n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.\n    \n\nHulp bij coronatoegangsbewijsSinds 25 september 2021 moet je op allerlei plekken in het land een coronatoegangsbewijs moet laten zien? Bijvoorbeeld in restaurants, cafés, theaters, bioscopen, musea en festivals. Met dit toegangsbewijs laat je zien dat je gevaccineerd bent, getest of hersteld van corona.Heb je hulp nodig om het toegangsbewijs op je telefoon te zetten of wil je het toegangsbewijs op papier? Kom naar het spreekuur EHBO en wij helpen je hiermee!&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/ehbo.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/ehbo.html",
+      "titles": ["Kom naar het spreekuur EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "Kom naar het spreekuur EHBO: Eerste Hulp Bij Online!\n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.\n    \n\nHulp bij coronatoegangsbewijsSinds 25 september 2021 moet je op allerlei plekken in het land een coronatoegangsbewijs moet laten zien? Bijvoorbeeld in restaurants, cafés, theaters, bioscopen, musea en festivals. Met dit toegangsbewijs laat je zien dat je gevaccineerd bent, getest of hersteld van corona.Heb je hulp nodig om het toegangsbewijs op je telefoon te zetten of wil je het toegangsbewijs op papier? Kom naar het spreekuur EHBO en wij helpen je hiermee!&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/slotermeer/ehboeerstehulponline.17032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/slotermeer/ehboeerstehulponline.17032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 17 maart 2022, van 14:00 tot 17:00 Elke week OBA Slotermeer Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        17 maart 2022, van 14:00 tot 17:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Slotermeer\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/reigersbos/ehboeerstehulponline.18032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/reigersbos/ehboeerstehulponline.18032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 18 maart 2022, van 13:00 tot 16:00 Elke week OBA Reigersbos Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        18 maart 2022, van 13:00 tot 16:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Reigersbos\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/osdorp/ehboeerstehulponline1.22032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/osdorp/ehboeerstehulponline1.22032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 22 maart 2022, van 10:00 tot 13:00 Elke week OBA Osdorp Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        22 maart 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Osdorp\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/osdorp/ehboeerstehulponline1.15032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/osdorp/ehboeerstehulponline1.15032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 15 maart 2022, van 10:00 tot 13:00 Elke week OBA Osdorp Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        15 maart 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Osdorp\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/mercatorplein/ehboeerstehulponline1.18032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/mercatorplein/ehboeerstehulponline1.18032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 18 maart 2022, van 14:00 tot 17:00 Elke week OBA Mercatorplein Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        18 maart 2022, van 14:00 tot 17:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Mercatorplein\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.25032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.25032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 25 maart 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        25 maart 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.22042022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.22042022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 22 april 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        22 april 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.15042022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.15042022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 15 april 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        15 april 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.18032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.18032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 18 maart 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        18 maart 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.08042022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.08042022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 8 april 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        8 april 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.01042022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/ijburg/ehboeerstehulponline1.01042022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 1 april 2022, van 10:00 tot 13:00 Elke week OBA IJburg Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        1 april 2022, van 10:00 tot 13:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA IJburg\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.Bereid je voor op je&amp"
+      ]
+    },
+    {
+      "id": "|oba-website|7https://www.oba.nl/agenda/molenwijk/ehboeerstehulponline.17032022.html",
+      "frabl": { "key1": "", "key2": "", "cnt": "", "value": "" },
+      "detailLink": "https://www.oba.nl/agenda/molenwijk/ehboeerstehulponline.17032022.html",
+      "titles": ["EHBO: Eerste Hulp Bij Online!"],
+      "coverimages": [
+        "/assets/resources/img/oba.png?skin=oba&bld=20220314.220059"
+      ],
+      "formats": [
+        {
+          "text": "oba.nl",
+          "icon": "/assets/resources/img/mat/website.png?skin=oba&bld=20220314.220059"
+        }
+      ],
+      "summaries": [
+        "EHBO: Eerste Hulp Bij Online! 17 maart 2022, van 12:00 tot 14:00 Elke week OBA Molenwijk Kosten: toegang gratis  aanmelden verplicht Krijg gratis 1-op-1 hulp bij al je computervragen. Ontdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online…"
+      ],
+      "undup": {
+        "alsoAvailableAsCount": "0",
+        "items": [{ "key1": "", "key2": "", "cnt": "", "value": "" }]
+      },
+      "eresources": ["", ""],
+      "fulltext": [
+        "EHBO: Eerste Hulp Bij Online!\n                    \n                        17 maart 2022, van 12:00 tot 14:00\n                    \n                    \n                        \n                            \n                                |\n                                Elke week\n                            \n                            \n                        \n                    \n                    \n                        | OBA Molenwijk\n                    \n                \n                    Kosten: \n                    toegang gratis | aanmelden verplicht\n                \n\n\n\n    \n    \n        Krijg gratis 1-op-1 hulp bij al je computervragen.\n    \n\nOntdek de mogelijkheden van het internet om contact te houden met familie en vrienden op afstand. Leer online boodschappen te doen. Of om je online te vermaken met YouTube, Netflix en leuke spelletjes. Ook voor vragen over de digitale overheid (DigID) kun je op het spreekuur terecht.Aanmelden\nOp dit moment kun je alleen op afspraak komen.\nKlik HIER om je aan te melden op de website.We doen ons best om je bezoek aan de OBA zo veilig mogelijk te maken. Doe de gezondheidscheck voordat je een plek reserveert en bereid je voor op je bezoek aan de OBA.\nOBA Molenwijk | Molenwijk 21 | 1035&amp"
+      ]
+    }
+  ]
+}
